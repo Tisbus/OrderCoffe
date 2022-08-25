@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Order Coffe</string>
+    <string name="textViewWellcome">Добро пожаловать!</string>
+    <string name="editTextName">Введите имя...</string>
+    <string name="editTextPassword">Введите пароль...</string>
+    <string name="buttonSend">Отправить</string>
+    <string name="imageViewMainPic">Главная картинка</string>
+    <string name="toast_check_fields">Нужно заполнить все поля для отправки!</string>
+    <string name="tea">Чай</string>
+    <string name="coffee">Кофе</string>
+    <string name="textViewHelloName">Добро пожаловать, %s !</string>
+    <string name="default_name">Моё Имя</string>
+    <string name="default_password">1234QW</string>
+    <string name="textViewAddToppings">Что добавить в ваш %s?</string>
+    <string name="milk">Молоко</string>
+    <string name="sugar">Сахар</string>
+    <string name="lemon">Лемон</string>
+    <string name="textViewTypeDrinks">Выбирите вид Напитка</string>
+    <string name="sendOrder">Кнопка сделать заказ</string>
+    <string-array name="string_tea">
+        <item>Чёрный</item>
+        <item>Зеленный</item>
+        <item>Красный</item>
+    </string-array>
+    <string-array name="string_coffee">
+        <item>Лате</item>
+        <item>Капучино</item>
+        <item>Амаретто</item>
+    </string-array>
+</resources>
